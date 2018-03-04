@@ -24,6 +24,11 @@
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C Martin
 - [ ] Programming Pearls(2nd edition) - Jon Bentley
 
+## Algorithms
+
+- [ ] The Algorithm Design Manual - Steven S Skiena
+- [ ] Algorithms (4th Edition) - Robert Sedgewick
+
 ## Networking
 
 - [ ] Practical Packet Analysis, 3E: Using Wireshark to Solve Real-World Network Problems - Chris Sanders
