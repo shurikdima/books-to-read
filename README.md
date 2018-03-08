@@ -46,3 +46,5 @@
 
 - [ ] The Algorithm Design Manual - Steven S Skiena
 - [ ] Algorithms (4th Edition) - Robert Sedgewick
+- [ ] Introduction to Algorithms(3rd Edition) - Thomas H.Cormen
+- [ ] Concrete Mathematics: A Foundation for Computer Science (2nd Edition) - Donald E.Knuth
