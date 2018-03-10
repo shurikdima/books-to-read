@@ -29,7 +29,9 @@
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C Martin
 - [ ] Programming Pearls(2nd edition) - Jon Bentley
 
+
 ## Networking
+
 
 - [ ] Practical Packet Analysis, 3E: Using Wireshark to Solve Real-World Network Problems - Chris Sanders
 - [ ] TCP/IP Illustrated, Volume 1: The Protocols(1/2 edition) - Kevin R.Fall
@@ -42,9 +44,16 @@
 - [ ] Pro Git - Scott Chacon
 - [ ] Art of Doing Science and Engineering: Learning to Learn - Richard W.Hamming
 
+
 ## Algorithms
 
+
 - [ ] The Algorithm Design Manual - Steven S Skiena
-- [ ] Algorithms (4th Edition) - Robert Sedgewick
 - [ ] Introduction to Algorithms(3rd Edition) - Thomas H.Cormen
+- [ ] Grokking Algorithms: An illustrated guide for programmers and other curious people - Aditya Bhargava
+
+## Math
+
+
 - [ ] Concrete Mathematics: A Foundation for Computer Science (2nd Edition) - Donald E.Knuth
+- [ ] How to Prove It: A Structured Approach(2nd edition) - Daniel J Velleman
