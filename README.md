@@ -48,9 +48,10 @@
 ## Algorithms
 
 
+- [ ] Grokking Algorithms: An illustrated guide for programmers and other curious people - Aditya Bhargava
 - [ ] The Algorithm Design Manual - Steven S Skiena
 - [ ] Introduction to Algorithms(3rd Edition) - Thomas H.Cormen
-- [ ] Grokking Algorithms: An illustrated guide for programmers and other curious people - Aditya Bhargava
+
 
 ## Math
 
