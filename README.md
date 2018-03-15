@@ -20,7 +20,7 @@
 
 
 - [ ] Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma and Richard Helm
-- [ ] Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman and Bert Bates
+- [x] Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman and Bert Bates
 - [ ] Working Effectively with Legacy Code - Michael Feathers
 - [ ] Refactoring: Improving the Design of Existing Code - Martin Fowler and Kent Beck
 - [ ] Code Complete: A Practical Handbook of Software Construction(2nd edition) - Steve McConnell
@@ -48,7 +48,7 @@
 ## Algorithms
 
 
-- [ ] Grokking Algorithms: An illustrated guide for programmers and other curious people - Aditya Bhargava
+- [x] Grokking Algorithms: An illustrated guide for programmers and other curious people - Aditya Bhargava
 - [ ] The Algorithm Design Manual - Steven S Skiena
 - [ ] Introduction to Algorithms(3rd Edition) - Thomas H.Cormen
 
