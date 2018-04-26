@@ -43,6 +43,7 @@
 - [ ] Structure and Interpretation of Computer Programs(2nd edition) - Harold Abelson and Gerald Jay Sussman
 - [ ] Pro Git - Scott Chacon
 - [ ] Art of Doing Science and Engineering: Learning to Learn - Richard W.Hamming
+- [ ] Operating Systems: Three Easy Pieces - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
 
 
 ## Algorithms
