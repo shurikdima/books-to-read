@@ -47,6 +47,8 @@
 - [ ] Pro Git - Scott Chacon
 - [ ] Art of Doing Science and Engineering: Learning to Learn - Richard W.Hamming
 - [ ] Operating Systems: Three Easy Pieces - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
+- [ ] Practical Vim: Edit Text at the Speed of Thought - Drew Neil
+- [ ] Modern Vim: Craft Your Development Environment with Vim 8 and Neovim - Drew Neil
 
 
 ## Algorithms
