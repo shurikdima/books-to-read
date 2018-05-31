@@ -4,7 +4,7 @@
 
 
 - [ ] You-Dont-Know-JS - Kyle Simpson
-- [ ] Speaking JavaScript: An In-Depth Guide for Programmers - Dr.Axel Rauschmayer
+- [x] Speaking JavaScript: An In-Depth Guide for Programmers - Dr.Axel Rauschmayer
 - [ ] Exploring ES6 - Dr.Axel Rauschmayer
 - [ ] Exploring ES2016 and ES2017 - Dr.Axel Rauschmayer
 - [ ] Exploring ES2018 and ES2019 - Dr.Axel Rauschmayer
