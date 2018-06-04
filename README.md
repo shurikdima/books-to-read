@@ -38,6 +38,8 @@
 
 - [ ] Practical Packet Analysis, 3E: Using Wireshark to Solve Real-World Network Problems - Chris Sanders
 - [ ] TCP/IP Illustrated, Volume 1: The Protocols(1/2 edition) - Kevin R.Fall
+- [ ] CompTIA Network+ Certification All-in-One Exam Guide, Seventh Edition - Mike Meyers
+- [ ] CCENT/CCNA ICND1 100-105 Official Cert Guide - Wendell Odom
 
 
 ## General CS
